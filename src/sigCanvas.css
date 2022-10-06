@@ -1,0 +1,9 @@
+.signatureCanvas {
+    width: 800px;
+     height: 400px;
+    border: 10px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to right bottom, #6a5af9, #f62682);
+
+}
+
