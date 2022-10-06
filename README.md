@@ -7,7 +7,6 @@ Chữ kí điện tử là thông tin đi kèm theo dữ liệu (văn bản, hì
 
 
 # Resource
-reactjs-popup: https://www.npmjs.com/package/reactjs-popup
 
 react-signature-canvas: https://www.npmjs.com/package/react-signature-canvas
 
